@@ -1,5 +1,2 @@
-n=int(input("Ingrese el valor final:"))
-x=1
-while x<=n:
+for x in range(101):
     print(x)
-    x=x+1   
